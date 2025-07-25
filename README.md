@@ -148,9 +148,12 @@
 
 ---
 
-## 💭 **Random Dev Quote**
+## 💭 **Saurabh Chauhan**
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  “My UI is reactive, my backend is concurrent,
+and my web renders before the blink —
+Flutter. Go. Next.js.
+I don’t chase trends — I compile them.”
 </p>
 
 ---

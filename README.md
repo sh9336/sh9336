@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh9336&label=Profile%20views&color=0e75b6&style=flat" alt="sh9336" /> </p>
 
-- 🌱 I'm currently learning **Node.js , REST Api**
+- 🌱 I'm currently learning **Go,Nextjs,REST Api**
 - 📫 How to reach me **saurabh25decem2020@gmail.com**
 - 💻 Passionate **Android & iOS Full Stack App developer from India**
 - ⚡ Fun fact: **I love turning ideas into beautiful mobile applications!**
